@@ -1,0 +1,3 @@
+# TinyMediaManager
+
+Compatibility notes.
