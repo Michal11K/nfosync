@@ -1,3 +1,29 @@
+                 MDb
+
+                  │
+
+IMDb ─────────────┼──────────── Trakt
+
+                  │
+
+                  ▼
+
+              NfoSync
+
+                  │
+
+                  ▼
+
+            Local NFO Files
+
+                  │
+
+                  ▼
+
+      Jellyfin • Kodi • Emby
+
+
+
 # NfoSync
 
 > Your metadata. Your rules.
